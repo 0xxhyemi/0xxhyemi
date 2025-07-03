@@ -1,45 +1,83 @@
-## Hi there 👋
+<p align='center'>
+  <a href="https://github.com/0xxhyemi">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1468&text=hyemi's%20repository&section=header&reversal=false&fontSize=50&fontAlign=50&fontAlignY=39&animation=fadeIn"/>
+  </a>
+</p>
+
+## Profile
+- `Name` : Hwang Hyemi
+- `Email` : gpal5512@naver.com
+- 🔭 I'm currently working as an **IoT instructor**
+  - Major : C#, Smart Factory, IoT Development
+  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+ 
+## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/0xxhyemi">
+    <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
+  </a>
+</p>
+
+## Using Languages
+<p align='left'>
+    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
+    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
+    <img width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" title="Kotlin">
+    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+    <img height="40" src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" title="VisualBasic">
+    <img width="40" height="40" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo" title="Go">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" title="Delphi">
+    <img height="40" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" title="PHP">
+    <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
+    <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="SQL Server">
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
+</p>
+
+## Using Technics
+<p align='left'>
+  <img height="40" src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" title="WPF"> 
+  <img height="40" src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" title="SmartFactory">  
+  <img height="40" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" title="ASP.NET Core">  
+  <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
+  <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
+  <img height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
+  <img height="40" src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" title="ML/DL"> 
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
+  
+  <img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV">
+  <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
+  <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
+  <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
+  <!-- 
+  <img height="40" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" title="PyTorch">  
+  -->
+</p>
+
+## Using Tools
+<p align='left'>
+  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+  <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
+  <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains">
+  <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3" title="Android Studio">
+</p>
 
 <!--
-**0xxhyemi/0xxhyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 기술명세
+| 기술분류 | 설명 |
+|:---:|:---:|
+|VSCode | VisualStudio Code 툴 사용법 습득|
+|Python | 빅데이터분석, 머신러닝, OpenCV|
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=1468&text=hyemi's%20repository&section=header&reversal=false&fontSize=50&fontAlign=50&fontAlignY=39&animation=fadeIn)
+## Project List
+- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
+- [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
+- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
+- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
+- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
+- [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
 
-# 안녕하세요 👋
-제 GitHub 프로필에 오신 것을 환영합니다!
-
-## 🚀 저에 대해
-저는 재료공학을 전공하고 있으며 현재 자바와 웹 개발을 배우고 있는 학생입니다. 데이터베이스, 프론트엔드, 백엔드 개발에 관련된 기술을 탐구하는 것을 좋아합니다.
-
-## 💼 주요 프로젝트
-제가 진행한 몇 가지 멋진 프로젝트를 소개합니다:
-
-- [**YB3698/team5-baseball-project**](https://github.com/0xxhyemi/YB3698/team5-baseball-project): 자바스크립트로 구축한 야구 프로젝트입니다.
-- [**java-database-2025**](https://github.com/0xxhyemi/java-database-2025): 자바 기반 데이터베이스 프로젝트 리포지토리입니다.
-- [**PKNU_py**](https://github.com/0xxhyemi/PKNU_py): 다양한 파이썬 프로젝트와 실험을 위한 Jupyter Notebook 리포지토리입니다.
-- [**java-springboot-2025**](https://github.com/0xxhyemi/java-springboot-2025): 제 학업 과정 중 SpringBoot로 개발한 자바 프로젝트입니다.
-
-## 🧑‍💻 사용 기술 스택
-- **언어**: 자바, 파이썬, HTML, 자바스크립트
-- **프레임워크**: SpringBoot
-- **도구**: Jupyter, Git, GitHub
-
-## 📫 연락처
-다음 경로로 연락 주세요:
-- 이메일: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-## 🏆 성과
-![Achievements](https://img.shields.io/badge/Contributions%20in%20the%20last%20year-258%20contributions-blue)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
