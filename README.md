@@ -7,7 +7,6 @@
 ## Profile
 - `Name` : Hwang Hyemi
 - `Email` : gpal5512@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
  
 ## GitHub Stat and Languages
 <p align='center'>
